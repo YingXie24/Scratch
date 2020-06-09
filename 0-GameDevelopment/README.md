@@ -1,6 +1,6 @@
 ## URL: https://scratch.mit.edu/projects/390206438
 
-## Game instructions:
+### Game instructions:
 A game based on the tv series "Friends". Using arrow keys, help Monica and Chandler protect their newly-budding relationship from their friends!
 Collect as many hearts as possible within 60 seconds without bumping into other friends. 
 
